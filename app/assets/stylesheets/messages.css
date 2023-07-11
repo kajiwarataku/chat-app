@@ -10,11 +10,11 @@
 
 .side-bar-header {
   height: 100px;
-  padding: 0 20px;
   justify-content: space-between;
   display: flex;
   align-items: center;
   background-color: #253141;
+  padding: 0 20px;
 }
 
 .header-name a {
@@ -34,8 +34,8 @@
 .rooms {
   height: calc(100vh - 100px);
   background-color: #2f3e51;
-  padding: 0 20px;
   overflow: scroll;
+  padding: 0 20px;
 }
 
 .room {
@@ -54,9 +54,9 @@
 
 .chat-header {
   height: 100px;
-  padding: 0 40px;
   display: flex;
   justify-content: space-between;
+  padding: 0 40px;
 }
 
 .header-title {
@@ -78,8 +78,8 @@
 .messages {
   height: calc(100vh - 100px - 90px);
   background-color: #fafafa;
-  padding: 46px 40px 0;
   overflow: scroll;
+  padding: 46px 40px 0;
 }
 
 .message {
@@ -115,8 +115,8 @@
 .form {
   height: 90px;
   background-color: #dddddd;
-  padding: 20px 40px;
   display: flex;
+  padding: 20px 40px;
 }
 
 .form-input {
